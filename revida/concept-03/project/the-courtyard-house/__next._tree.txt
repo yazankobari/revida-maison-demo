@@ -1,0 +1,5 @@
+:HL["/revida-maison-demo/revida/_next/static/chunks/21v6slmud14eq.css","style"]
+:HC["/",""]
+:HL["/revida-maison-demo/revida/_next/static/chunks/1jc3kz2vkdsr8.css","style"]
+:HL["/revida-maison-demo/revida/_next/static/chunks/3xhoqjj0fwmq4.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"concept-03","param":null,"prefetchHints":4192,"slots":{"children":{"name":"project","param":null,"prefetchHints":4192,"slots":{"children":{"name":"the-courtyard-house","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"dDIHoruZ3ksK8CmVEQpJt"}
