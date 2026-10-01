@@ -1,0 +1,5 @@
+:HL["/revida-maison-demo/_next/static/chunks/3aiiy_5q_4cbb.css","style"]
+:HL["/revida-maison-demo/_next/static/chunks/3_srzvpepssj6.css","style"]
+:HC["/",""]
+:HL["/revida-maison-demo/_next/static/chunks/39w9l-ty3yop3.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"design-studio","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"zuwsItm5cTgy7qOmjIFfl"}
