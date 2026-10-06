@@ -2,17 +2,17 @@
 
 The brand name is **Revida Maison**, with this exact casing. Both words are part of the primary logo; do not shorten the wordmark or add a full stop.
 
-- `revida-logo.svg`: primary horizontal lockup, with the preserved perspective-frame symbol beside a two-line wordmark. The lettering uses Italiana Regular (400), the same editorial typeface as the website's large footer name. It is outlined from bundled `public/fonts/italiana.ttf`, with native kerning and equal type size on both lines. ViewBox: 524 × 184, approximately 2.85:1.
-- `revida-logo.png`: transparent 1572 × 552 rendering of that SVG, used by the inspiration PDF.
-- `revida-symbol.svg` and `.png`: compact symbol, reserved for space-constrained contexts where the full name is already clear.
-- `revida-icon.svg` and `revida-apple-icon.png`: preserved symbol-only browser/app icons.
+- `revida-logo.svg`: primary wordmark (master). Each letter of REVIDA is a piece of furniture drawn as a single line: shell-chair R, writing-desk E, side-chair V, floor-lamp I, framed D, trestle A. A bronze inlay `#9A7E5A` fills every stroke inside an espresso outline `#3A302A`; MAISON is hand-lettered with a brush pen and sits centred beneath in espresso. ViewBox: −4 0 886 × 282, approximately 3.14:1.
+- `revida-logo.png`: transparent 1572 × 500 rendering of the wordmark, used by the inspiration PDF.
+- `revida-symbol.svg` (master) and `.png`: the R chair, a chair whose back post, armrest, seat and front leg form the letter R. Espresso frame with a bronze seat. Use it where the full name is already clear or space is square.
+- `revida-icon.svg` and `revida-apple-icon.png`: the R chair on an ivory `#F3EBDD` tile, for the browser tab and the home screen.
 
-Use the full lockup at 44–48 px high on desktop and at least 38 px high on mobile. Keep its aspect ratio and leave clear space of at least a quarter of the symbol height. The warm stone/bronze frame colours are preserved. The standalone wordmark uses `#292824`; the inline website component inherits the surrounding text colour for light and dark surfaces.
+Use the wordmark at 56 px high on desktop, easing to 46 px in the compact desktop header (901–1200 px wide), and 44 px on phones; never below 40 px, so MAISON stays legible. Keep its aspect ratio and leave clear space of at least a quarter of its height. The colours are fixed: place the logo on light ivory, stone or plaster surfaces only.
 
-Regenerate the SVG, matching PNG, and inline `BrandArtwork` with:
+Rebuild the PNGs, icons and the inline `BrandArtwork` component after editing either master:
 
 ```sh
-uv run --with fonttools --with uharfbuzz python scripts/generate-brand-assets.py
+python3 scripts/generate-brand-assets.py
 ```
 
-The script uses only repository assets and requires `rsvg-convert`. The logo font licence is `public/fonts/italiana-OFL.txt`. Keep Vend Sans for the website's body text and controls.
+The script uses only repository files and requires `rsvg-convert`.
