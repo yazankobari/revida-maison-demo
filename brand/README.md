@@ -8,7 +8,7 @@ The brand name is **Revida Maison**, with this exact casing. Both words are part
 - `revida-symbol.png`: the V alone, without MAISON. Use it where the full name is already clear or space is square.
 - `revida-icon.png` and `revida-apple-icon.png`: the V on an ivory `#F3EBDD` tile, for the browser tab and the home screen.
 
-Use the logo at 78 px high on desktop, easing to 64 px in the compact desktop header (901–1200 px wide), and 62 px on phones; never below 56 px, so MAISON stays legible. Keep its aspect ratio and leave clear space of at least a quarter of its height. On the website it carries a soft shadow (a thin light edge and a warm shadow beneath, `svg[data-revida-logo]` in `globals.css`), so the bronze reads as raised metal. Place the bronze logo on light ivory, stone or plaster surfaces, and the light version on dark ones.
+Use the logo at 78 px high on desktop, easing to 64 px in the compact desktop header (901–1200 px wide), and 62 px on phones; never below 56 px, so MAISON stays legible. Keep its aspect ratio and leave clear space of at least a quarter of its height. On the website it casts a shadow like metal letters fixed a little off a plaster wall, lit from the top left (`svg[data-revida-logo]` in `globals.css`). Place the bronze logo on light ivory, stone or plaster surfaces, and the light version on dark ones.
 
 Rebuild the derived files and the inline `BrandArtwork` component after replacing the master:
 
