@@ -1,5 +1,5 @@
 :HL["/revida-maison-demo/_next/static/chunks/2-jsv-w1yd1bs.css","style"]
 :HL["/revida-maison-demo/_next/static/chunks/283u_rs54ugmh.css","style"]
-:HL["/revida-maison-demo/_next/static/chunks/1mu01vd3r5ike.css","style"]
+:HL["/revida-maison-demo/_next/static/chunks/0xcv8jqtqf59q.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"da-vinci-tower-residence","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"EBfTKqbFjlsNiGKbrR1gE"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"da-vinci-tower-residence","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"5m3doYw3WBjpVBRp3_34S"}
