@@ -5,4 +5,4 @@
 :HC["/",""]
 :HL["/revida-maison-demo/_next/static/chunks/0uitskl25gcw2.css","style"]
 :HL["/revida-maison-demo/_next/static/chunks/0g7krdxc55naf.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"IPfr_w2wTOsSZ6oI6KJX7"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"WlQHEPMvTMj-WZZies7Ja"}
