@@ -1,6 +1,6 @@
 :HL["/revida-maison-demo/_next/static/chunks/05rb26lddxqx_.css","style"]
 :HL["/revida-maison-demo/_next/static/chunks/41jb7fixb739o.css","style"]
-:HL["/revida-maison-demo/_next/static/chunks/2mzg14iq6zxnh.css","style"]
+:HL["/revida-maison-demo/_next/static/chunks/0p1rt93mnotj8.css","style"]
 :HL["/revida-maison-demo/_next/static/chunks/3g7f1kd72cfeb.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"noble-tower-residence","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"CHfQZCsFvd2TRjMzHl9zN"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"noble-tower-residence","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"QopPZln5sPVkuy5puZ69Y"}
