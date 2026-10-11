@@ -3,4 +3,4 @@
 :HL["/revida-maison-demo/_next/static/chunks/2mzg14iq6zxnh.css","style"]
 :HL["/revida-maison-demo/_next/static/chunks/19rhlcx2srev9.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"noble-tower-residence","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"IPfr_w2wTOsSZ6oI6KJX7"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"noble-tower-residence","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"WlQHEPMvTMj-WZZies7Ja"}
