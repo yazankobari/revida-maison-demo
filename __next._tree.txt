@@ -1,8 +1,8 @@
-:HL["/revida-maison-demo/_next/static/chunks/05rb26lddxqx_.css","style"]
-:HL["/revida-maison-demo/_next/static/chunks/41jb7fixb739o.css","style"]
-:HL["/revida-maison-demo/_next/static/chunks/0p1rt93mnotj8.css","style"]
+:HL["/revida-maison-demo/_next/static/chunks/1-4wquvx8cdqb.css","style"]
+:HL["/revida-maison-demo/_next/static/chunks/0lb6pik0az276.css","style"]
+:HL["/revida-maison-demo/_next/static/chunks/289z7k0ihs-qw.css","style"]
 :HL["/revida-maison-demo/_next/static/chunks/3g7f1kd72cfeb.css","style"]
 :HC["/",""]
-:HL["/revida-maison-demo/_next/static/chunks/0uitskl25gcw2.css","style"]
-:HL["/revida-maison-demo/_next/static/chunks/0g7krdxc55naf.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"QopPZln5sPVkuy5puZ69Y"}
+:HL["/revida-maison-demo/_next/static/chunks/1wk25zeycyjr_.css","style"]
+:HL["/revida-maison-demo/_next/static/chunks/0a_l67kvbsdqx.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"JqMcskmr9ntBG_AKwn1u7"}
