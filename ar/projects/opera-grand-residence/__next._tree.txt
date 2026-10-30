@@ -5,4 +5,4 @@
 :HL["/revida-maison-demo/_next/static/chunks/3pw0ay8nicbo_.css","style"]
 :HC["/",""]
 :HL["/revida-maison-demo/_next/static/chunks/38axj-599gqcz.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"ar","param":null,"prefetchHints":4208,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"opera-grand-residence","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"yeN0D8roNahPpySWVH3ha"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"ar","param":null,"prefetchHints":4208,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"opera-grand-residence","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"Kkx4muQugXg4nPIgSiuyb"}
